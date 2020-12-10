@@ -1,10 +1,3 @@
-alert("Hello world");
-alert("Hello world");
-alert("Hello world");
-alert("Hello world");
-alert("Hello world");
-alert("Hello world");
-alert("Hello world");
-alert("Hello world");
-alert("Hello world");
-alert("Hello world");
+function trivial() {
+	alert("Hello world");
+}
